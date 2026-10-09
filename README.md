@@ -1,1 +1,1 @@
-# Exerc-cios-estrutura-de-decis-o
+# Exercicios-estrutura-de-decisao
